@@ -1,9 +1,5 @@
 # Perception Autonomous Vehicle
 
-Welcome to the Perception for Autonomous Vehicle repository!
-
-## Overview
-
 This repository contains code for the perception module of an autonomous vehicle. We utilize the ZED camera for depth estimation, which simplifies the process by outputting depth point cloud data in a topic. Additionally, we integrate YOLOv8, trained on a dataset of over 25,000 images containing traffic cones, for cone detection.
 
 ## Requirements
